@@ -8,3 +8,4 @@ build
 dist
 piptv_pmg.egg-info
 
+*/__pycache__/
